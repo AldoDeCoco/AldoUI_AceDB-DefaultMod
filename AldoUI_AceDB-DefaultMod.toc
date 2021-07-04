@@ -1,0 +1,7 @@
+## Interface: 90100
+## Title: !|cff00ffffAldoUI|r |cff9482c9AceDB-DefaultMod|r
+## Notes: Default to a shared profile instead of per-character profiles.
+## Version: v0.9
+## Author: AldoDeCoco
+
+AceDB-DefaultMod.lua
